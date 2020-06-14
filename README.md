@@ -1,2 +1,2 @@
 # 02-homework-01-excel
-Homework 01
+This is my first assignment 01 excel
